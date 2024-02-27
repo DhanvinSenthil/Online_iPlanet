@@ -1,0 +1,32 @@
+div.navnavbar{
+    /* background:linear-gradient(red,blue); */
+
+    background: rgb(15, 15, 15);
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+
+div.divcolor{
+    background-color: rgb(14, 15, 15);
+    background: rgb(9, 9, 9);
+
+}
+.flex-col flex-center{
+    color: white;
+}
+.about{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.view{
+    background-color: black;
+    color: white;
+}
+.filter{
+    background-color: black;
+}
+.form-group
+{
+    color: black;
+}
