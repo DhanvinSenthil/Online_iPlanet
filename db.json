@@ -1,0 +1,535 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@prodinve.com",
+      "password": "qwerty1",
+      "firstname": "user",
+      "lastname": "one",
+      "location": "Bhubaneswar",
+      "mobile": 1234567891
+    },
+    {
+      "firstName": "user",
+      "lastName": "two",
+      "email": "user2@prodinve.com",
+      "password": "qwery2",
+      "mobileNumber": 1234567899,
+      "location": "Hyderabad",
+      "id": 1588335664232
+    },
+    {
+      "firstName": "user",
+      "lastName": "three",
+      "email": "user3@prodinve.com",
+      "password": "qwerty3",
+      "mobileNumber": 1234567898,
+      "location": "Cuttack",
+      "id": 1588345171044
+    },
+    {
+      "firstName": "user",
+      "lastName": "four",
+      "email": "user4@prodinve.com",
+      "password": "qwerty4",
+      "mobileNumber": 1234567898,
+      "location": "Puri",
+      "id": 1588345840910
+    },
+    {
+      "firstName": "user",
+      "lastName": "five",
+      "email": "user5@prodinve.com",
+      "password": "qwerty5",
+      "mobileNumber": 1234567895,
+      "location": "Vizag",
+      "id": 1588345932419
+    },
+    {
+      "firstName": "user",
+      "lastName": "six",
+      "email": "user6@prodinve.com",
+      "password": "qwerty6",
+      "mobileNumber": 1234567896,
+      "location": "Vijayawada",
+      "id": 1588349352610
+    },
+    {
+      "firstName": "user",
+      "lastName": "seven",
+      "email": "user7@prodinve.com",
+      "password": "qwerty7",
+      "mobileNumber": 1234567897,
+      "location": "Secunderabad",
+      "id": 1588399498677
+    },
+    {
+      "firstName": "Alpha",
+      "lastName": "Auser",
+      "email": "alpha@prodinve.com",
+      "password": "qwertya",
+      "mobileNumber": 8908317371,
+      "location": "Bhubaneswar",
+      "id": 1588666118554
+    },
+    {
+      "firstName": "Bravo",
+      "lastName": "Userb",
+      "email": "bravo@prodinve.com",
+      "password": "qwertyb",
+      "mobileNumber": 8908317372,
+      "location": "Hyderabad",
+      "id": 1588666315275
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Cuser",
+      "email": "charlie@prodinve.com",
+      "password": "qwertyc",
+      "mobileNumber": 8908317373,
+      "location": "Secunderabad",
+      "id": 1588666356920
+    },
+    {
+      "firstName": "Swaraj",
+      "lastName": "Laha",
+      "email": "swaraj.laha@prodinve.com",
+      "password": "swarajlaha",
+      "mobileNumber": 8908317370,
+      "location": "Hyderabad",
+      "id": 1589213071810
+    },
+    {
+      "firstName": "Jothyrangan",
+      "lastName": "K",
+      "email": "jothyrangan@gmail.com",
+      "password": "Jothy@1234",
+      "mobileNumber": 7010316709,
+      "location": "Chennai",
+      "id": 1659940384211
+    },
+    {
+      "firstName": "Jothyrangan",
+      "lastName": "K",
+      "email": "jothyrangan@gmail.com",
+      "password": "123456",
+      "mobileNumber": 9999999999,
+      "location": "kkk",
+      "id": 1660030009883
+    },
+    {
+      "firstName": "Dhanvin ",
+      "lastName": "S",
+      "email": "dhanvinsenthil2509@gmail.com",
+      "password": "123456",
+      "mobileNumber": 1234567890,
+      "location": "Chennai",
+      "id": 1660057428399
+    }
+  ],
+  "products": [
+    {
+      "productName": "iphone 12",
+      "productDescription": "All new iphone 12",
+      "manufacturer": "Apple",
+      "price": "57000",
+      "quantity": 8,
+      "id": 1660064104776
+    },
+    {
+      "productName": "iphone 12",
+      "productDescription": "All new iphone 12",
+      "manufacturer": "Apple",
+      "price": "68000",
+      "quantity": 23,
+      "id": 1660195673347
+    }
+  ],
+  "productViews": [
+    {
+      "timeStamp": 1660039343574,
+      "productName": "iphone se",
+      "id": 128
+    },
+    {
+      "timeStamp": 1660039343574,
+      "productName": "iphone se",
+      "id": 129
+    },
+    {
+      "timeStamp": 1660057516932,
+      "productName": "Iphone 12",
+      "id": 130
+    },
+    {
+      "timeStamp": 1660060582067,
+      "productName": "iphone 11",
+      "id": 134
+    },
+    {
+      "timeStamp": 1660060582067,
+      "productName": "iphone 11",
+      "id": 135
+    },
+    {
+      "timeStamp": 1660060602646,
+      "productName": "iphone 11",
+      "id": 136
+    },
+    {
+      "timeStamp": 1660060602646,
+      "productName": "iphone 11",
+      "id": 137
+    },
+    {
+      "timeStamp": 1660060616236,
+      "productName": "iphone 11",
+      "id": 138
+    },
+    {
+      "timeStamp": 1660060616237,
+      "productName": "iphone 11",
+      "id": 139
+    },
+    {
+      "timeStamp": 1660060634122,
+      "productName": "iphone 11",
+      "id": 140
+    },
+    {
+      "timeStamp": 1660060634123,
+      "productName": "iphone 11",
+      "id": 141
+    },
+    {
+      "timeStamp": 1660060677720,
+      "productName": "iphone 11",
+      "id": 142
+    },
+    {
+      "timeStamp": 1660060677720,
+      "productName": "iphone 11",
+      "id": 143
+    },
+    {
+      "timeStamp": 1660061787048,
+      "productName": "iphone 11",
+      "id": 148
+    },
+    {
+      "timeStamp": 1660061787048,
+      "productName": "iphone 11",
+      "id": 149
+    },
+    {
+      "timeStamp": 1660063500643,
+      "productName": "iphone 11",
+      "id": 150
+    },
+    {
+      "timeStamp": 1660063500643,
+      "productName": "iphone 11",
+      "id": 151
+    },
+    {
+      "timeStamp": 1660063588917,
+      "productName": "iphone 11",
+      "id": 156
+    },
+    {
+      "timeStamp": 1660063588917,
+      "productName": "iphone 11",
+      "id": 157
+    },
+    {
+      "timeStamp": 1660064144667,
+      "productName": "iphone 11",
+      "id": 158
+    },
+    {
+      "timeStamp": 1660064144667,
+      "productName": "iphone 11",
+      "id": 159
+    },
+    {
+      "timeStamp": 1660064196969,
+      "productName": "iphone 11 Pro",
+      "id": 160
+    },
+    {
+      "timeStamp": 1660064196972,
+      "productName": "iphone 11 Pro",
+      "id": 161
+    },
+    {
+      "timeStamp": 1660064267808,
+      "productName": "iphone 11",
+      "id": 162
+    },
+    {
+      "timeStamp": 1660064267808,
+      "productName": "iphone 11",
+      "id": 163
+    },
+    {
+      "timeStamp": 1660064505123,
+      "productName": "iphone 11",
+      "id": 164
+    },
+    {
+      "timeStamp": 1660064505123,
+      "productName": "iphone 11",
+      "id": 165
+    },
+    {
+      "timeStamp": 1660064584298,
+      "productName": "iphone 11",
+      "id": 166
+    },
+    {
+      "timeStamp": 1660064584298,
+      "productName": "iphone 11",
+      "id": 167
+    },
+    {
+      "timeStamp": 1660066567098,
+      "productName": "iphone 12",
+      "id": 168
+    },
+    {
+      "timeStamp": 1660066567098,
+      "productName": "iphone 12",
+      "id": 169
+    },
+    {
+      "timeStamp": 1660066572666,
+      "productName": "iphone 12",
+      "id": 170
+    },
+    {
+      "timeStamp": 1660066572666,
+      "productName": "iphone 12",
+      "id": 171
+    },
+    {
+      "timeStamp": 1660067809874,
+      "productName": "iphone 11",
+      "id": 172
+    },
+    {
+      "timeStamp": 1660067809875,
+      "productName": "iphone 11",
+      "id": 173
+    },
+    {
+      "timeStamp": 1660070521305,
+      "productName": "iphone 11",
+      "id": 174
+    },
+    {
+      "timeStamp": 1660070521305,
+      "productName": "iphone 11",
+      "id": 175
+    },
+    {
+      "timeStamp": 1660071706071,
+      "productName": "iphone 12",
+      "id": 176
+    },
+    {
+      "timeStamp": 1660071706072,
+      "productName": "iphone 12",
+      "id": 177
+    },
+    {
+      "timeStamp": 1660071710329,
+      "productName": "iphone 12",
+      "id": 178
+    },
+    {
+      "timeStamp": 1660071710329,
+      "productName": "iphone 12",
+      "id": 179
+    },
+    {
+      "timeStamp": 1660071714732,
+      "productName": "iphone 12",
+      "id": 180
+    },
+    {
+      "timeStamp": 1660071714732,
+      "productName": "iphone 12",
+      "id": 181
+    },
+    {
+      "timeStamp": 1660071718614,
+      "productName": "iphone 12",
+      "id": 182
+    },
+    {
+      "timeStamp": 1660071718614,
+      "productName": "iphone 12",
+      "id": 183
+    },
+    {
+      "timeStamp": 1660071722293,
+      "productName": "iphone 12",
+      "id": 184
+    },
+    {
+      "timeStamp": 1660071722293,
+      "productName": "iphone 12",
+      "id": 185
+    },
+    {
+      "timeStamp": 1660071769705,
+      "productName": "iphone 11",
+      "id": 186
+    },
+    {
+      "timeStamp": 1660071769706,
+      "productName": "iphone 11",
+      "id": 187
+    },
+    {
+      "timeStamp": 1660105351803,
+      "productName": "iphone 11",
+      "id": 188
+    },
+    {
+      "timeStamp": 1660105351804,
+      "productName": "iphone 11",
+      "id": 189
+    },
+    {
+      "timeStamp": 1660107768156,
+      "productName": "iphone 11",
+      "id": 190
+    },
+    {
+      "timeStamp": 1660107768156,
+      "productName": "iphone 11",
+      "id": 191
+    },
+    {
+      "timeStamp": 1660108095937,
+      "productName": "iphone 11",
+      "id": 192
+    },
+    {
+      "timeStamp": 1660108095938,
+      "productName": "iphone 11",
+      "id": 193
+    },
+    {
+      "timeStamp": 1660108107921,
+      "productName": "iphone 11 Pro",
+      "id": 194
+    },
+    {
+      "timeStamp": 1660108107921,
+      "productName": "iphone 11 Pro",
+      "id": 195
+    },
+    {
+      "timeStamp": 1660110997882,
+      "productName": "iphone 11",
+      "id": 196
+    },
+    {
+      "timeStamp": 1660110997883,
+      "productName": "iphone 11",
+      "id": 197
+    },
+    {
+      "timeStamp": 1660113131592,
+      "productName": "iphone 11",
+      "id": 198
+    },
+    {
+      "timeStamp": 1660113131593,
+      "productName": "iphone 11",
+      "id": 199
+    },
+    {
+      "timeStamp": 1660113160380,
+      "productName": "iphone 11",
+      "id": 200
+    },
+    {
+      "timeStamp": 1660113160381,
+      "productName": "iphone 11",
+      "id": 201
+    },
+    {
+      "timeStamp": 1660113177637,
+      "productName": "iphone 11",
+      "id": 202
+    },
+    {
+      "timeStamp": 1660113177638,
+      "productName": "iphone 11",
+      "id": 203
+    },
+    {
+      "timeStamp": 1660113205845,
+      "productName": "iphone 11",
+      "id": 204
+    },
+    {
+      "timeStamp": 1660113205845,
+      "productName": "iphone 11",
+      "id": 205
+    },
+    {
+      "timeStamp": 1660113301934,
+      "productName": "iphone 11",
+      "id": 206
+    },
+    {
+      "timeStamp": 1660113301934,
+      "productName": "iphone 11",
+      "id": 207
+    },
+    {
+      "timeStamp": 1660133145669,
+      "productName": "iphone 12",
+      "id": 208
+    },
+    {
+      "timeStamp": 1660133145669,
+      "productName": "iphone 12",
+      "id": 209
+    },
+    {
+      "timeStamp": 1660196585389,
+      "productName": "iphone 12",
+      "id": 210
+    },
+    {
+      "timeStamp": 1660196585389,
+      "productName": "iphone 12",
+      "id": 211
+    },
+    {
+      "timeStamp": 1660280631580,
+      "productName": "iphone 12",
+      "id": 212
+    },
+    {
+      "timeStamp": 1660280631581,
+      "productName": "iphone 12",
+      "id": 213
+    },
+    {
+      "timeStamp": 1660280679597,
+      "productName": "iphone 12",
+      "id": 214
+    },
+    {
+      "timeStamp": 1660280679597,
+      "productName": "iphone 12",
+      "id": 215
+    }
+  ]
+}
